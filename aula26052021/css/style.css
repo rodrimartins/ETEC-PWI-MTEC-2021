@@ -1,0 +1,16 @@
+body{
+
+    background-color: cyan;
+}
+
+h1{
+    color: navy;
+}
+
+#par3{
+    color: red;
+}
+
+.fundoHexa{
+    background-color:#1bdf1463;
+}
